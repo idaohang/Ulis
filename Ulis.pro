@@ -15,8 +15,7 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    qtraceviewer.cpp \
-    qreadgpx.cpp
+    qtraceviewer.cpp
 
 HEADERS  += mainwindow.h \
     qtraceviewer.h \
