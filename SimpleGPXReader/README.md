@@ -9,5 +9,3 @@ Trace, Track and Segment are all of the type Node<subclass> to get as much code 
 TODO: error raise an exception
 
 TODO: Use namespace
-
-TODO: Mixup with parseData : should return Trace, not Trace* 
