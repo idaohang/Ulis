@@ -7,5 +7,7 @@ Use SimpleGPXReader::parseData(QIODevice * data) to get a list of Trace, each co
 Trace, Track and Segment are all of the type Node<subclass> to get as much code reuse as possible. However, they all inherit from Node_QT to get signal/slot abilities.
 
 TODO: error raise an exception
+
 TODO: Use namespace
-TODO: Mixup with parseData : should return Trace.
+
+TODO: Mixup with parseData : should return Trace, not Trace* 
