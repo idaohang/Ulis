@@ -10,7 +10,7 @@ The goal of this project is to correct the traces : remove incorrect points, smo
 
 To simplify the edition, the path is projected on a map (webview of Google maps).
 
-This software use Qt, c++ (c++11 extensions way be in use)
+This software use Qt, c++ (some c++11 extensions can be in use, tested on gcc/windows only)
 
 Use case
 --------
